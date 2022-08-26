@@ -1,0 +1,12 @@
+{
+  "name": "msig-maker",
+  "version": "1.0.0",
+  "main": "makeMsig.js",
+  "author": "Jesse Schulman <jesse@telos.net>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@greymass/eosio": "^0.6.3",
+    "moment": "^2.29.4"
+  }
+}
